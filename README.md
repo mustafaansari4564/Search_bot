@@ -79,7 +79,7 @@ python start.py
 ## 📁 Project Structure
 
 ```
-library-search-bot/
+search-bot/
 ├── README.md          # Project documentation
 ├── start.py           # Entry point for running the bot
 ├── bot.py             # Discord bot events and command handling
