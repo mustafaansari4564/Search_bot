@@ -31,7 +31,7 @@ A Discord bot that **indexes your server threads and answers questions about it*
 |---|---|
 | [discord.py](https://discordpy.readthedocs.io/) | Discord bot framework |
 | SQLite + BM25 | Search indexing and scoring |
-| [OpenRouter](https://openrouter.ai/) | AI-powered answers (16-model fallback chain) |
+| [OpenRouter](https://openrouter.ai/) | AI-powered answers (10+model fallback chain) |
 | [python-dotenv](https://pypi.org/project/python-dotenv/) | Environment variable management |
 ---
 
